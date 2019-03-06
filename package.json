@@ -15,7 +15,7 @@
   "dependencies": {
     "connect": "^3.6.5",
     "serve-static": "^1.13.1",
-    "webdriverio": "^4.8.0"
+    "webdriverio": "^5.7.0"
   },
   "devDependencies": {
     "wdio-dot-reporter": "0.0.9",
